@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.profile__section img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.profile__section {
+  width: 220px;
+}
+.user__icon {
+  font-size: 200px;
+}
+.flex-container {
+  display: flex;
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+.details__section {
+  flex: 1;
+}
+.label {
+  width: 200px;
+}
